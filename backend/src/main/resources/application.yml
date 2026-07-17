@@ -1,0 +1,53 @@
+server:
+  address: 0.0.0.0
+  port: 8080
+  tomcat:
+    max-swallow-size: -1
+
+security:
+  ip-whitelist:
+    enabled: false
+    allowed-ips:
+      - 192.168.1.16 # xiong
+      - 192.168.1.20 # chen
+      - 127.0.0.1 # localhost
+
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/gchc_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+  sql:
+    init:
+      mode: never
+      encoding: UTF-8
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 20MB
+      max-request-size: 20MB
+      file-size-threshold: 0
+
+jwt:
+  secret: ${JWT_SECRET:${random.uuid}}
+  expiration: ${JWT_EXPIRATION:7200000}
+
+logging:
+  level:
+    com.example.gchc.config.IpWhitelistFilter: INFO
+    com.example.gchc: WARN
+    org.springframework.security: WARN
+    org.mybatis: WARN
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

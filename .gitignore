@@ -1,0 +1,28 @@
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local scripts
+START.bat
+.trae
+# Dependencies
+node_modules/
+
+# Vite pre-bundled deps (should not be committed)
+.vite/
+
+# Uploaded files (root-level only)
+/uploads/
+
+# Build output
+dist/
+target/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log

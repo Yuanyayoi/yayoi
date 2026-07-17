@@ -1,0 +1,104 @@
+[2m17:53:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/products/public?page=0&size=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /categories/public[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:06[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /articles/public?page=0&size=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/contact[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:08[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/carousels[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:08[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/features[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:08[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:08[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /articles/public/latest[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:09[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:10[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/carousels[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:10[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/features[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:10[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:10[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /articles/public/latest[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/products/public?page=0&size=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /categories/public[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:16[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /articles/public?page=0&size=10[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:17[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/contact[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/carousels[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/features[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /site/modules[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m17:53:18[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /articles/public/latest[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
